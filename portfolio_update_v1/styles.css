@@ -8,14 +8,14 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: #222;
-  background: #f7f5f0;
+  color: purple;
+  background: black;
 }
 /* Link Styles */
 
 a {
   text-decoration: none;
-  color: #999;
+  color: plum;
 }
 a:hover {
   color: #6633ff;
@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: pink;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/sunsetbackground.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -70,15 +70,15 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid plum;
   transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
+  background-color: black;
+  color: pink;
   padding: 10px;
   border-radius: 5px;
   display: table;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: pink;
 }
 .card {
   margin: 30px;
