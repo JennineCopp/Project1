@@ -94,7 +94,7 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: left;
   background: pink;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid rgb(247, 10, 168);
   border-radius: 6px;
   transition: all .5s;
 }
