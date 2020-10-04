@@ -27,3 +27,10 @@ p {
     text-align: center;
     color: purple;
 }
+
+footer {
+text-align: center;
+    color: purple;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
