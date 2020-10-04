@@ -8,14 +8,22 @@ body {
     
 }
 
+header {
+
+    padding-bottom: 40px;
+}
+
 h1 {
     text-align: center;
     color: purple;
+    padding-top: 30px;
+    
 }
 
 h2 {
     text-align: center;
     color: purple;
+    
 }
 
  h3 {
